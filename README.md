@@ -1,4 +1,4 @@
-<img src="./images/audreyMarbMD2.jpg" style="float: left; margin: 15px;" width="75">
+<img src="https://i.imgur.com/Y6EMKKg.jpg" style="float: left; margin: 15px;" width="75">
 
 # Web APIs & Classification
 ---
